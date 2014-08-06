@@ -26,6 +26,6 @@ A fenced grassy area surrounds the hall for the use of hirers, and smaller gazeb
 BBQs can be erected here if wished.  The Hall is adjacent to the rolling greenery of the village
 recreation ground, where there is also a small fenced playground.  These are open to all.    
 
-If this sounds like your kind of place please click [here](/about) for further details.
+If this sounds like your kind of place please click [here](about) for further details.
 
 
