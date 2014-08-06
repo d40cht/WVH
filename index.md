@@ -7,6 +7,8 @@ Wytham Village Hall is in the heart of the unique village of Wytham, which, thou
 Oxford City Centre, is a haven of rural peace.  The Hall is run by a charitable trust and all
 proceeds from events and hires go towards the maintenance of this important community resource.
 
+![The village hall](images/hallonly.jpg "The village hall")
+
 The Village Hall hosts a variety of community events throughout the year and is also available for
 private hire.  It is a popular venue for weddings, parties, concerts, plays, dinners, talks,
 away-days, art exhibitions and much more.  It is a beautiful setting for any event.  The capacity
