@@ -1,6 +1,5 @@
 ---
 title: About the Hall
-layout: page
 ---
 
 * The maximum capacity of the village hall is 100.

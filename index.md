@@ -1,6 +1,5 @@
 ---
 title: Wytham Village Hall
-layout: page
 ---
 
 Wytham Village Hall is in the heart of the unique village of Wytham, which, though only 4 miles from
