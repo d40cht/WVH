@@ -8,6 +8,14 @@ a:link, a:visited {
   text-decoration: none;
 }
 
+img.floatright {
+  float: right;
+}
+
+img.floatleft {
+  float: left;
+}
+
 h1, h2 {
   color: #106010;
 }
