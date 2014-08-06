@@ -1,0 +1,5 @@
+---
+title: Photographs
+layout: default
+---
+
