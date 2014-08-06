@@ -1,8 +1,8 @@
 * Home
-  * About the hall
-  * How to book the hall
-  * Use of the hall
-  * Booking forms and license advice
+  * [About the hall](about)
+  * [How to book the hall](howtobook)
+  * [Use of the hall](useofhall)
+  * [Booking forms and license advice](bookingforms)
 * [Car boot sales](carboot)
 * [Village hall events](events)
 * [Getting here](gettinghere)
