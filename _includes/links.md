@@ -1,4 +1,4 @@
-* Home
+* [Home](index)
   * [About the hall](about)
   * [How to book the hall](howtobook)
   * [Use of the hall](useofhall)
