@@ -8,6 +8,10 @@ a:link, a:visited {
   text-decoration: none;
 }
 
+img {
+  margin: 4px;
+}
+
 img.floatright {
   float: right;
 }
