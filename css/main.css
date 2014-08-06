@@ -21,12 +21,12 @@ div.side-bar {
   flex: 1 0 0;
 }
 
-div.side-bar li {
-  margin-left: 0px;
+div.side-bar ul {
+  padding-left: 0px;
 }
 
-div.side-bar li li {
-  margin-left: 10px;
+div.side-bar ul ul {
+  padding-left: 10px;
 }
 
 div.content {
