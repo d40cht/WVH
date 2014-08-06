@@ -12,6 +12,20 @@ div.outer {
   margin-right: auto;
 }
 
+div.content-wrapper {
+  display: flex;
+}
+
+div.side-bar {
+  float: left;
+  width: 200px;
+}
+
+div.content {
+  float:left;
+  width: 700px;
+}
+
 div.header {
 }
 
