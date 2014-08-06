@@ -18,9 +18,16 @@ layout: default
 <img src="images/music2.jpg"/>
 <img src="images/music3.png"/>
 
-## The rooms
+## The hall 
 
 <img src="images/room1.jpg"/>
 <img src="images/room2.jpg"/>
-<img src="images/room3.jpg"/>
+
+## The kitchen
+
 <img src="images/room4.jpg"/>
+
+## The back room
+
+<img src="images/room3.jpg"/>
+
