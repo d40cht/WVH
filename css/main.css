@@ -18,11 +18,11 @@ div.content-wrapper {
 }
 
 div.side-bar {
-  flex: 1 0 0;
+  flex: 4 0 0;
 }
 
 div.side-bar ul {
-  padding-left: 20px;
+  padding-left: 30px;
 }
 
 div.side-bar ul ul {
@@ -30,7 +30,7 @@ div.side-bar ul ul {
 }
 
 div.content {
-  flex: 4 0 0;
+  flex: 12 0 0;
 }
 
 div.header {
