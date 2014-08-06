@@ -1,3 +1,8 @@
+---
+title: Wytham Village Hall
+layout: page
+---
+
 # Wytham Village Hall
 
 
