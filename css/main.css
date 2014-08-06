@@ -4,6 +4,8 @@ body {
   font-size: 14px;
 }
 
+ul {
+
 div.outer {
   width: 900px;
   padding: 10px;
@@ -19,6 +21,14 @@ div.content-wrapper {
 
 div.side-bar {
   flex: 1 0 0;
+}
+
+div.side-bar ul {
+  margin-left: 0px;
+}
+
+div.side-bar ul ul {
+  margin-left: 10px;
 }
 
 div.content {
