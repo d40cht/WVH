@@ -3,9 +3,6 @@ title: About the Hall
 layout: page
 ---
 
-
-# About the Hall
-
 * The maximum capacity of the village hall is 100.
 * There are 100 chairs and 10 round dining tables (diameter 6ft - seating max 10 people). There are
   also 12 oblong tables (6ft x 2ft - seating max 8 people).
