@@ -22,11 +22,11 @@ div.side-bar {
 }
 
 div.side-bar ul {
-  padding-left: 0px;
+  padding-left: 20px;
 }
 
 div.side-bar ul ul {
-  padding-left: 10px;
+  padding-left: 20px;
 }
 
 div.content {
