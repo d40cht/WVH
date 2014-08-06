@@ -4,6 +4,14 @@ body {
   font-size: 14px;
 }
 
+a:link, a:visited {
+  text-decoration: none;
+}
+
+h1, h2 {
+  color: #106010;
+}
+
 div.outer {
   width: 900px;
   padding: 10px;
