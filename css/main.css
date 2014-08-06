@@ -14,16 +14,15 @@ div.outer {
 
 div.content-wrapper {
   display: flex;
+  flex-direction: row;
 }
 
 div.side-bar {
-  float: left;
-  width: 200px;
+  flex: 1 0 0;
 }
 
 div.content {
-  float:left;
-  width: 700px;
+  flex: 3 0 0;
 }
 
 div.header {
