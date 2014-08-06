@@ -9,7 +9,8 @@ a:link, a:visited {
 }
 
 img {
-  margin: 4px;
+  margin-left: 6px;
+  margin-right: 6px;
 }
 
 img.floatright {
@@ -56,7 +57,12 @@ div.content {
 div.header {
 }
 
+div.header img {
+  margin: 0px;
+}
+
 div.footer {
+  margin-top: 10px;
   text-align: center;
   font-style: italic;
   font-size: small;
