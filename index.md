@@ -3,11 +3,11 @@ title: Wytham Village Hall
 layout: default
 ---
 
+<img class="floatright" src="images/hallonly.jpg" alt="The village hall" text="The village hall"/>
+
 Wytham Village Hall is in the heart of the unique village of Wytham, which, though only 4 miles from
 Oxford City Centre, is a haven of rural peace.  The Hall is run by a charitable trust and all
 proceeds from events and hires go towards the maintenance of this important community resource.
-
-<img class="floatright" src="images/hallonly.jpg" alt="The village hall" text="The village hall"/>
 
 The Village Hall hosts a variety of community events throughout the year and is also available for
 private hire.  It is a popular venue for weddings, parties, concerts, plays, dinners, talks,
