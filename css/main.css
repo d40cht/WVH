@@ -21,11 +21,11 @@ div.side-bar {
   flex: 1 0 0;
 }
 
-div.side-bar ul {
+div.side-bar li {
   margin-left: 0px;
 }
 
-div.side-bar ul ul {
+div.side-bar li li {
   margin-left: 10px;
 }
 
