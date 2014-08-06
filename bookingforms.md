@@ -18,7 +18,7 @@ The booking cannot be considered as confirmed until we have received these. Thes
 available for download here:
 
 * [Wytham village hall hiring agreement](resources/hallhiringagreement.pdf)
-* [Conditions Of Hire](hallconditionsofhire.pdf)
+* [Conditions Of Hire](resources/hallconditionsofhire.pdf)
 
 Wytham Village Hall is not licensed to sell alcohol. However, we are allowed a very small number of
 Temporary Event Notices each year. We have to apply for these from the Vale Of The White Horse
