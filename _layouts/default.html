@@ -16,7 +16,8 @@
     <div class="content-wrapper">
       <div class="side-bar">
         <h1>Links</h1>
-        {% include links.md %}
+        {% capture sidebar %}{% include links.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
       </div>
 
       <div class="content">
