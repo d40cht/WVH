@@ -3,7 +3,7 @@ title: About Wytham Village
 layout: default
 ---
 
-<img class="floatright" src="images/villagehouses.jpg" alt="Village houses"/>
+<img align="right" src="images/villagehouses.jpg" alt="Village houses"/>
 
 Wytham is a unique village – only 3 miles from Oxford City Centre, but with no modern development
 and a real feeling of rural peace. The beautiful buildings, in Cotswold stone, with some thatched,
