@@ -5,7 +5,6 @@
   * [Booking forms and license advice](bookingforms)
 * [Car boot sales](carboot)
 * [Village events calendar](calendar)
-* [About village hall events](events)
 * [Getting here](gettinghere)
 * [Photographs](photographs)
 * [Cricket club](cricketclub)
