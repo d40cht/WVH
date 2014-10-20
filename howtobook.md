@@ -16,7 +16,7 @@ layout: default
   this address if you have any queries at all – we are glad to help.
 * Next you will need to download the form on this website and send it with a deposit cheque to
   Village Hall Bookings, 16, Wytham Village, Oxford, OX2 8QA.  Please make cheques payable to
-  Wytham Village Hall.
+  Wytham Village Hall. For BACS please refer to the committe for bank details.
 * The deposit cheque will be cashed on receipt but will be returned to you after your event if no
   damage to the Hall is found after inspection.
 * For large scale 3 day events the deposit is £300.  For smaller events it is £100.
@@ -30,4 +30,4 @@ layout: default
   will be subject to any increases that are implemented.  These will only go up incrementally – no
   big jumps! 
 * The hire fee is payable six weeks before the date of the booking
-* Please make all cheques payable to 'Wytham Village Hall'
+* Please make all cheques payable to 'Wytham Village Hall', and for BACS please refer to the committe for bank details.
