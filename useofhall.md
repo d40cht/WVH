@@ -7,8 +7,7 @@ layout: default
   happiness of our neighbours! 
 * We have many music events throughout the year but we ask that all bands, electronic music, discos
   etc play inside the Hall not in a Marquee.
-* If people are parking along the lane please do so sensibly – there is a farm at the end of the
-  lane that needs constant access.
+* There is no parking on the lane outside the hall, there is ample parking by the hall, included in the booking fee.
 * There is no camping allowed on the site.
 * Though we are happy for hirers to use tea-lights in safe containers the use of candles is
   prohibited.
