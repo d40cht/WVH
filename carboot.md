@@ -15,4 +15,4 @@ September.* They attract hoards of enthusiastic sellers and buyers. The sales ca
 A stall (boot) will cost £8.00. Ample car parking is available, free of charge, although we do ask
 for voluntary contributions for the Village Hall.
 
-*The gates open for "boots" at 7.30am. The sale is on from 8am to 21pm.*
+*The gates open for "boots" at 7.30am. The sale is on from 8am to 12pm.*
