@@ -12,7 +12,7 @@ layout: default
 * There is a recently fitted, modern kitchen with a double oven electric cooker and fridge. 
 * The Hall has good disabled access and a disabled toilet facility with baby changing unit.
 * Parking is to the front of the hall, it can accommodate approx 15 cars. Further parking can be
-  arranged in the adjacent playing field if requested. In this case a fee of £30 is charged.
+  arranged in the adjacent playing field if requested as part of the booking fee.
 * The Postcode for the Hall is OX2 8QN.  This is for Sat Nav directions only - not for
   correspondence.
 * The dimensions of the Hall are:
