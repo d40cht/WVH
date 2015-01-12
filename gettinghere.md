@@ -12,10 +12,7 @@ Oxford
 
 OX2 8QA
 
-
-<iframe src="https://www.google.co.uk/maps"
-  style="border: 0" width="100%" height="600"
-  frameborder="0" scrolling="no"></iframe>
+<iframe src="https://mapsengine.google.com/map/u/0/embed?mid=z8eMP_KanrIg.kNWvzUK7mMfw" width="640" height="480"></iframe>
 
 
 
