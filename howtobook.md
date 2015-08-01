@@ -20,14 +20,15 @@ layout: default
 * The deposit cheque will be cashed on receipt but will be returned to you after your event if no
   damage to the Hall is found after inspection.
 * For large scale 3 day events the deposit is £300.  For smaller events it is £100.
-* Hiring Fees per session are as follows 
-* Monday – Thursday:  business rate: £100 per session; social rate £75 per session
-* Friday - Sunday: business rate: £100 per session; social rate - day session £75 - evening
+* Hiring Fees per session are as follows: 
+* Monday – Thursday:  business rate: £100 per session (£110 by 2016); social rate £75 per session 
+* Friday - Sunday: business rate: £100 per session (£110 by 2016); social rate - day session £75 - evening
   session £90
-* For the large events the 3 day hire is £700 for the weekend. This is from 9am Friday, until
+* For the large events the 3 day hire is £700 for the weekend (£750 by 2016). This is from 9am Friday, until
   11.45pm Sunday.
 * Please note that the fees are reviewed each year. Bookings made in advance for subsequent years
   will be subject to any increases that are implemented.  These will only go up incrementally – no
   big jumps! 
+* Fees will increase as of 1/1/2016 to £750 for 3 day hire; £110 business session
 * The hire fee is payable six weeks before the date of the booking
 * Please make all cheques payable to 'Wytham Village Hall', and for BACS please refer to the committe for bank details.
