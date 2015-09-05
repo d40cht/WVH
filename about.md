@@ -19,4 +19,4 @@ layout: default
   * The main Hall: 12.2m (40ft) x 6.7m (22ft)
   * The small stage: 4m (13ft) x 1.4m (4ft 6ins)
   * The adjacent room: 4.25m (13ft 10ins) x 5.3m (17ft 6ins)
-  * A floor-plan can be viewed [here](resources/floorplan.pdf)
+  * A floor-plan can be viewed [here](resources/floorplan.pdf).
