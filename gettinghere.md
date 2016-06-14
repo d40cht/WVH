@@ -2,7 +2,7 @@
 title: Getting here
 layout: default
 ---
-##Address:
+## Address:
 
 Wytham Village Hall<br>
 Wytham<br>
