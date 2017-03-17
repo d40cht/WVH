@@ -3,8 +3,6 @@
   * [How to book the hall](howtobook)
   * [Use of the hall](useofhall)
   * [Booking forms and license advice](bookingforms)
-* [Car boot sales](carboot)
-* [Village events calendar](calendar)
 * [Getting here](gettinghere)
 * [Photographs](photographs)
 * [Cricket club](cricketclub)
