@@ -3,8 +3,10 @@ title: Booking forms and licensing advice
 layout: default
 ---
 
-To book the Hall you will need to complete and sign our Hiring Agreement which also requires you to
-read and accept our Conditions of Hire. The Hiring Agreement then needs to be returned with the
+To book the Hall you will need to complete and sign our Hiring Agreement which will be supplied
+by the bookings secretary (please contact wythambookings@yahoo.co.uk for details).
+
+Having read and accepted our Conditions of Hire, the Hiring Agreement then needs to be returned with the
 returnable deposit cheque to:
 
  
@@ -14,11 +16,7 @@ Wytham
 Oxfordshire
 OX2 8QA
  
-The booking cannot be considered as confirmed until we have received these. These documents are
-available for download here:
-
-* [Wytham village hall hiring agreement](resources/hallhiringagreement.pdf)
-* [Conditions Of Hire](resources/hallconditionsofhire.pdf)
+The booking cannot be considered as confirmed until we have received these.
 
 Wytham Village Hall is not licensed to sell alcohol. However, we are allowed a very small number of
 Temporary Event Notices each year. We have to apply for these from the Vale Of The White Horse
