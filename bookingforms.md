@@ -9,12 +9,13 @@ by the bookings secretary (please contact wythambookings@yahoo.co.uk for details
 Having read and accepted our Conditions of Hire, the Hiring Agreement then needs to be returned with the
 returnable deposit cheque to:
 
- 
+<pre>
 Wytham Village Hall Bookings
 Cottage 16
 Wytham
 Oxfordshire
 OX2 8QA
+</pre>
  
 The booking cannot be considered as confirmed until we have received these.
 
