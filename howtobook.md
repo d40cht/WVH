@@ -6,11 +6,11 @@ layout: default
 * First you need to consider what kind of event you are planning.  Some people want to book the
   Hall for single sessions - some want to hire it for big events, such as lavish weddings.
 * For the large scale events, which can involve lengthy occupation, erection and dismantling of
-  large marquees etc., we have a three day block booking which runs from 9am Friday to 11.45pm Sunday
+  large marquees etc., we have a three day block booking which runs from 9am Friday to 11.15pm Sunday
 * If you are intending to use a Marquee company you must obtain permission from the Village Hall
   Committee in advance.
 * For the less elaborate bookings hire is charged by the session – these are from 9 am – 5pm, and
-  5pm – 11.45 pm
+  5pm – 11.15 pm
 * To book the hall you first need to let us know when you plan to hold the event – send us a
   message to wythambookings@yahoo.co.uk – to see if it is available when you require.  Please use
   this address if you have any queries at all – we are glad to help.
