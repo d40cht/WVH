@@ -3,7 +3,7 @@ title: Booking forms and licensing advice
 layout: default
 ---
 
-To book the Hall you will need to complete and sign our [Hiring Agreement](resources/Wytham Village Hall TCS FINAL 18.7.2017.docx).
+To book the Hall you will need to complete and sign our [Hiring Agreement](resources/WythamVillageHallTCS.docx).
 
 Having read and accepted our Conditions of Hire, the Hiring Agreement then needs to be returned with the
 returnable deposit cheque to:
